@@ -1,4 +1,5 @@
 Ideas (in chronological order)
+- [ ] Tic Tac Toe
 - [ ] Pong 2P 
 - [ ] Space Shooter
 - [ ] Matching Game
